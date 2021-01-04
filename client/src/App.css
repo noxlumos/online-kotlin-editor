@@ -1,0 +1,15 @@
+
+.script{
+  background-color: 	#404040;
+  color: white;
+  height: 95%;
+  font-size: 18px;
+  padding: 2%;
+}
+
+.script:focus{
+  background-color: 	#404040;
+  color: white;
+  outline: none;
+  height: 95%;
+}
