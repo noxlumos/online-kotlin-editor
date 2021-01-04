@@ -7,12 +7,15 @@ To run both, I have written a script called runKotlinIDE.sh which is located at 
 
 Requirements:
    kotlinc
+   java
    maven
    nodejs 
 
 If not installed, install them with:
    sudo apt install snapd
    sudo snap install --classic kotlin
+   
+   sudo apt-get install openjdk-8-jdk
   
    sudo apt install maven 
   
